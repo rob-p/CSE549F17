@@ -43,6 +43,9 @@ We will cover the basic required molecular Biology in the course. However if you
   * RNA-seq and transcriptomics — transcript assembly, abundance estimation and differential expression testing
   * Phylogenetics — The small and large phylogeny problem; parsimony, maximum likelihood and Bayesian methods
 
+
+**Project Rosalind**:  We will make use of [Project Rosalind](http://rosalind.info/problems/locations/) to assign and grade *small* programming assignments in the course.  The Rosalind page for this course is [http://rosalind.info/classes/437/](http://rosalind.info/classes/437/).  I will announce in class when projects are assigned and due, but you should create a Project Rosalind account as soon as possible, and then you can "enroll" in the course using the link [http://rosalind.info/classes/enroll/35f3c3e77f/](http://rosalind.info/classes/enroll/35f3c3e77f/).
+
 ## Course Policy
 
 **Coursework and grading**: The coursework will consist of two exams, a midterm (whose tentative date is Tues, October 11) and a final (on the University-scheduled date). In addition there will be a few homework assignments (some small programming assignments, and one or two written homeworks that will require you to devise / explain an algorithm, or prove some properly about an algorithm or data structure that we cover in class) and a final course project. The final project can be selected from a list of projects that will be distributed in a few weeks. The project will be done in teams of 3 - 4 students (a team of 2 is OK, but no solo projects and **no teams > 4 students**). For the final project, there will be a brief (7 min) presentation by each group, a deliverable as runnable code, and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:

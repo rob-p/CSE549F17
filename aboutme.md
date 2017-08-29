@@ -18,5 +18,5 @@ is relevant to the topics we cover.
 	- Office: NCS 259
     - Office Hours: Tues. 1-3PM
 - TA: Fatemeh Almodaresi
-	- TA Office: NCS 156
-    - Office Hours: TBD
+	- TA Office: TBD (send request until a permanent room is fixed)
+    - Office Hours: Thurs. 1-3PM
