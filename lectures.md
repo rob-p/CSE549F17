@@ -44,8 +44,9 @@ subtitle: Lectures and related material
 {::comment} * [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST {:/comment}
 
 [1]:{{site.url}}/lectures/Lec01.pdf
-{::comment}
 [2]:{{site.url}}/lectures/Lec02.pdf
+
+{::comment}
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04_alignment.pdf
 [5]:{{site.url}}/lectures/Lec05_gap_penalties.pdf
@@ -65,5 +66,6 @@ subtitle: Lectures and related material
 [20]:{{site.url}}/lectures/CSE549-Lec20_fastmapping.pdf
 [21]:{{site.url}}/lectures/CSE549-Lec22_quantification.pdf
 {:/comment}
+
 [proj]:{{ site.url}}/assets/ProjectList.pdf
 [honesty]:{{ site.url}}/assets/honesty.pdf
