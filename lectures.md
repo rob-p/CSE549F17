@@ -6,9 +6,11 @@ subtitle: Lectures and related material
 ---
 ## Lectures
 
- * [Lecture 1 : Course introduction, policies and prospective topics & basic bio][1]
+ * [Slide Deck 1 : Course introduction, policies and prospective topics & basic bio][1]
+ * [Slide Deck 2 : Basic bio (part 2) & computational approaches to biological problems][2]
+ 
 {::comment}
- * [Lecture 2 : Basic bio (part 2) & computational approaches to biological problems][2]
+ 
  * [Lecture 3 : Sequencing by synthesis and "short read" technology][3]
  * [Lecture 4 : Pairwise sequence alignment][4]
  * [Lecture 5 : General and affine gap penalties][5]
@@ -28,6 +30,7 @@ subtitle: Lectures and related material
  * [Lecture 19 : Evidence-based modeling & reference-guided transcript assembly][19]
  * [Lecture 20 : Fast Algorithms for Improved Transcriptome Analysis I : Transcriptomic Mapping][20]
  * [Lecture 21 : Fast Algorithms for Improved Transcriptome Analysis II : Quantification][21]
+ 
  {:/comment}
 
 ## Other links
