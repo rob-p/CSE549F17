@@ -37,7 +37,6 @@ subtitle: Lectures and related material
 
 ## Other links
  * [Least Common Ancestor (via RMQ) in linear space and constant time](https://courses.csail.mit.edu/6.851/spring12/lectures/L15.html)
- * [List of final project options][proj]
  * [Molecular Biology of the Cell](http://osp.mans.edu.eg/tmahdy/surgeons/ebooks/Books/Alberts%20-%20Molecular%20Biology%20of%20the%20Cell.pdf)
  * [Transcription](https://www.dnalc.org/resources/3d/12-transcription-basic.html)
  * [Translation](https://www.dnalc.org/resources/3d/15-translation-basic.html)
@@ -51,6 +50,7 @@ subtitle: Lectures and related material
 [4]:{{site.url}}/lectures/Lec04.pdf
 
 {::comment}
+ * [List of final project options][proj]
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04_alignment.pdf
 [5]:{{site.url}}/lectures/Lec05_gap_penalties.pdf
