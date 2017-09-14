@@ -10,6 +10,7 @@ subtitle: Lectures and related material
  * [Slide Deck 2 : Basic bio (part 2) & computational approaches to biological problems][2]
  * [Slide Deck 3 : Exact pattern matching with KMP][3]
  * [Slide Deck 4 : Suffix tries and suffix trees][4]
+ * [Slide Deck 5 : Suffix arrays; search and construction][5]
 
 {::comment}
  
@@ -48,6 +49,7 @@ subtitle: Lectures and related material
 [2]:{{site.url}}/lectures/Lec02.pdf
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04.pdf
+[5]:{{site.url}}/lectures/Lec05.pdf
 
 {::comment}
  * [List of final project options][proj]
