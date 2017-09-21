@@ -11,6 +11,7 @@ subtitle: Lectures and related material
  * [Slide Deck 3 : Exact pattern matching with KMP][3]
  * [Slide Deck 4 : Suffix tries and suffix trees][4]
  * [Slide Deck 5 : Suffix arrays; search and construction][5]
+ * [Slide Deck 6 : The Burrows-Wheeler transform and the FM-index][6]
 
 {::comment}
  
@@ -50,6 +51,7 @@ subtitle: Lectures and related material
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04.pdf
 [5]:{{site.url}}/lectures/Lec05.pdf
+[6]:{{site.url}}/lectures/Lec06.pdf
 
 {::comment}
  * [List of final project options][proj]
