@@ -53,7 +53,7 @@ subtitle: Lectures and related material
 [4]:{{site.url}}/lectures/Lec04.pdf
 [5]:{{site.url}}/lectures/Lec05.pdf
 [6]:{{site.url}}/lectures/Lec06.pdf
-[7]:{{site.url}}/lectures/Lec06.pdf
+[7]:{{site.url}}/lectures/Lec07.pdf
 
 {::comment}
  * [List of final project options][proj]
