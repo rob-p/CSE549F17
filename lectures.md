@@ -14,6 +14,7 @@ subtitle: Lectures and related material
  * [Slide Deck 6 : The Burrows-Wheeler transform and the FM-index][6]
  * [Slide Deck 7 : Pairwise (global) sequence alignment][7]
  * [Slide Deck 8 : Pairwise (local) sequence alignment][8]
+ * [Slide Deck 9 : Space-efficient alignment][9]
 
 {::comment}
  
@@ -56,6 +57,7 @@ subtitle: Lectures and related material
 [6]:{{site.url}}/lectures/Lec06.pdf
 [7]:{{site.url}}/lectures/Lec07.pdf
 [8]:{{site.url}}/lectures/Lec08.pdf
+[9]:{{site.url}}/lectures/Lec09.pdf
 
 {::comment}
  * [List of final project options][proj]
