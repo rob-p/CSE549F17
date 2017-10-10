@@ -15,6 +15,7 @@ subtitle: Lectures and related material
  * [Slide Deck 7 : Pairwise (global) sequence alignment][7]
  * [Slide Deck 8 : Pairwise (local) sequence alignment][8]
  * [Slide Deck 9 : Space-efficient alignment][9]
+ * [Slide Deck 10 : Substitution matrices][10]
 
 {::comment}
  
@@ -58,6 +59,8 @@ subtitle: Lectures and related material
 [7]:{{site.url}}/lectures/Lec07.pdf
 [8]:{{site.url}}/lectures/Lec08.pdf
 [9]:{{site.url}}/lectures/Lec09.pdf
+[10]:{{site.url}}/lectures/Lec10.pdf
+[11]:{{site.url}}/lectures/Lec11.pdf
 
 {::comment}
  * [List of final project options][proj]
@@ -83,4 +86,3 @@ subtitle: Lectures and related material
 
 [proj]:{{ site.url}}/assets/ProjectList.pdf
 [honesty]:{{ site.url}}/assets/honesty.pdf
-
