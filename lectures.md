@@ -16,6 +16,7 @@ subtitle: Lectures and related material
  * [Slide Deck 8 : Pairwise (local) sequence alignment][8]
  * [Slide Deck 9 : Space-efficient alignment][9]
  * [Slide Deck 10 : Substitution matrices][10]
+ * [Slide Deck 11 : Phylogenomics][11]
 
 {::comment}
  
