@@ -17,6 +17,7 @@ subtitle: Lectures and related material
  * [Slide Deck 9 : Space-efficient alignment][9]
  * [Slide Deck 10 : Substitution matrices][10]
  * [Slide Deck 11 : Phylogenomics][11]
+ * [Slide Deck 12 : Genome Assembly (part 1)][12]
 
 {::comment}
  
@@ -62,6 +63,7 @@ subtitle: Lectures and related material
 [9]:{{site.url}}/lectures/Lec09.pdf
 [10]:{{site.url}}/lectures/Lec10.pdf
 [11]:{{site.url}}/lectures/Lec11.pdf
+[12]:{{site.url}}/lectures/Lec12.pdf
 
 {::comment}
  * [List of final project options][proj]
