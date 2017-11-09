@@ -19,6 +19,7 @@ subtitle: Lectures and related material
  * [Slide Deck 11 : Phylogenomics][11]
  * [Slide Deck 12 : Genome Assembly (part 1)][12]
  * [Slide Deck 13 : Genome Assembly (part 2)][13]
+ * [Slide Deck 14 : Some Kmerology][14]
 
 {::comment}
  
@@ -66,6 +67,7 @@ subtitle: Lectures and related material
 [11]:{{site.url}}/lectures/Lec11.pdf
 [12]:{{site.url}}/lectures/Lec12.pdf
 [13]:{{site.url}}/lectures/Lec13.pdf
+[14]:{{site.url}}/lectures/Lec14.pdf
 
 {::comment}
  * [List of final project options][proj]
