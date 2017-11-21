@@ -20,6 +20,7 @@ subtitle: Lectures and related material
  * [Slide Deck 12 : Genome Assembly (part 1)][12]
  * [Slide Deck 13 : Genome Assembly (part 2)][13]
  * [Slide Deck 14 : Some Kmerology][14]
+ * [Slide Deck 15 : Using k-mers for large-scale search][15]
 
 {::comment}
  
@@ -68,6 +69,7 @@ subtitle: Lectures and related material
 [12]:{{site.url}}/lectures/Lec12.pdf
 [13]:{{site.url}}/lectures/Lec13.pdf
 [14]:{{site.url}}/lectures/Lec14.pdf
+[15]:{{site.url}}/lectures/Lec15.pdf
 
 {::comment}
  * [List of final project options][proj]
