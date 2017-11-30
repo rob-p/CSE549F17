@@ -21,6 +21,7 @@ subtitle: Lectures and related material
  * [Slide Deck 13 : Genome Assembly (part 2)][13]
  * [Slide Deck 14 : Some Kmerology][14]
  * [Slide Deck 15 : Using k-mers for large-scale search][15]
+ * [Slide Deck 16 : The colored de Bruijn Graph as a sequence search index][16]
 
 {::comment}
  
@@ -70,6 +71,7 @@ subtitle: Lectures and related material
 [13]:{{site.url}}/lectures/Lec13.pdf
 [14]:{{site.url}}/lectures/Lec14.pdf
 [15]:{{site.url}}/lectures/Lec15.pdf
+[16]:{{site.url}}/lectures/Lec16.pdf
 
 {::comment}
  * [List of final project options][proj]
